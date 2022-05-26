@@ -1,0 +1,36 @@
+﻿  소스.c
+D:\Visual C\rithm2\rithm2\소스.c(143,8): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(172,9): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(204,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(177,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(210,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(273,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(278,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(283,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(288,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(266,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(330,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(462,21): warning C4133: '함수': 'char [500]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Visual C\rithm2\rithm2\소스.c(456,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(483,9): warning C4101: 'Bitmap' :참조되지 않은 지역 변수입니다.
+D:\Visual C\rithm2\rithm2\소스.c(482,35): warning C4101: 'hNewBitmap' :참조되지 않은 지역 변수입니다.
+D:\Visual C\rithm2\rithm2\소스.c(574,32): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(576,32): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(578,2): warning C4033: 'M_Timer'은(는) 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(600,2): warning C4033: 'CheckKeyPress'은(는) 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(635,2): warning C4033: 'Game'은(는) 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(678,86): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(682,86): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Visual C\rithm2\rithm2\소스.c(729,142): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Visual C\rithm2\rithm2\소스.c(730,148): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Visual C\rithm2\rithm2\소스.c(732,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(750,15): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char *[200]'과(와) 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(750,10): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\Visual C\rithm2\rithm2\소스.c(752,153): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+D:\Visual C\rithm2\rithm2\소스.c(760,10): warning C4101: 'Bitmap' :참조되지 않은 지역 변수입니다.
+D:\Visual C\rithm2\rithm2\소스.c(759,36): warning C4101: 'hNewBitmap' :참조되지 않은 지역 변수입니다.
+D:\Visual C\rithm2\rithm2\소스.c(579): warning C4716: 'M_Timer': 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(601): warning C4716: 'CheckKeyPress': 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(613): warning C4716: 'Pan_Timer': 값을 반환해야 합니다.
+D:\Visual C\rithm2\rithm2\소스.c(636): warning C4716: 'Game': 값을 반환해야 합니다.
+  rithm2.vcxproj -> D:\Visual C\rithm2\x64\Debug\rithm2.exe
